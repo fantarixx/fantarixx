@@ -1,5 +1,5 @@
 ## Hi there 👋
-## im ITMO IS y28 student
+## im ITMO SE y28 student
 <!-- ## cgsg 6 month(graphics not for me actualy) -->
 
 <!--
