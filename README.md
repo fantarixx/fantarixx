@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## im ITMO IS y28 student
-## cgsg 6 month(graphics not for me actualy)
+<!-- ## cgsg 6 month(graphics not for me actualy) -->
 
 <!--
 **fantarixx/fantarixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
